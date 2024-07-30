@@ -1,0 +1,16 @@
+{
+  "name": "my-project-api",
+  "version": "1.0.0",
+  "description": "A simple project with api ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Theng Vanthoeurn",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
